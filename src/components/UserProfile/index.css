@@ -30,3 +30,17 @@
   color: #594d6d;
   margin: 0px;
 }
+@media screen and (min-width:768px) {
+    .avatar{
+      height: 85px;
+      width: 85px;
+      border-radius: 42px;
+    }
+    .user-name{
+      font-size:22px;
+    }
+    .user-designation{
+      font-size:17px;
+      font-weight: 500;
+    }
+  }
